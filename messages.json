@@ -351,6 +351,14 @@
       "createdAt": "2015-02-24T18:56:51.656Z",
       "updatedAt": "2015-02-24T18:56:51.656Z",
       "objectId": 1424804211000
+    },
+    {
+      "username": "Garrett",
+      "text": "LOL",
+      "roomname": "lobby",
+      "createdAt": "2015-02-24T20:05:13.092Z",
+      "updatedAt": "2015-02-24T20:05:13.092Z",
+      "objectId": 1424808313000
     }
   ]
 }
