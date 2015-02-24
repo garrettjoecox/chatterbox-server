@@ -7,7 +7,7 @@ var app = express();
 
 app.use(cors());
 app.use(bodyParser.json());
-app.use(express.static('../client'));
+app.use(express.static('./client'));
 
 app.get('/messages', function(req, res){
   res.set('Content-Type', 'application/json');
