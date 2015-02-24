@@ -24,6 +24,6 @@ app.post('/messages', function(req, res){
   res.send(req.body);
 });
 
-app.listen(3000, function(){
-    console.log("Listening on 3000");
+app.listen(9000, function(){
+    console.log("Listening on 9000");
 });
